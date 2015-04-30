@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
+title: Unique Sister
+subtitle: 競技プログラミング奮闘記
+description: 謎の組織による競技プログラミング奮闘記
+author: Unique Sister
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://unique-sister.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

@@ -59,5 +59,5 @@ $ hexo server
 
 ## Deploy
 ```bash
-$ hexo deploy
+$ hexo clean && hexo deploy -g
 ```

@@ -1,37 +1,17 @@
 title: Hello World
+date: 3015-05-01 00:00:00
 ---
-Welcome to [Hexo](http://hexo.io/)! This is your very first post. Check [documentation](http://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](http://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+謎の組織による競技プログラミング奮闘記です。
 
-### Create a new post
+# Contests
+- [TopCoder](https://www.topcoder.com/)
+- [Codeforces](http://codeforces.com/)
 
-``` bash
-$ hexo new "My New Post"
-```
+# Languages
+- Python
+- Scala
 
-More info: [Writing](http://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](http://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](http://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](http://hexo.io/docs/deployment.html)
+# Members 
+- [@necojackarc](https://twitter.com/necojackarc)
+- [@esplo77](https://twitter.com/esplo77)

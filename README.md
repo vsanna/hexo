@@ -50,6 +50,24 @@ $ git clone git@github.com:unique-sister/hexo.git unique-sister
 $ hexo new "<Article Title>"
 ```
 
+## Header guide
+```
+tags:
+- author
+- content
+- language
+```
+
+e.g.)
+
+```
+tags:
+- necojackarc
+- TopCoder
+- Python
+
+```
+
 ## Run local server
 ```bash
 $ hexo server

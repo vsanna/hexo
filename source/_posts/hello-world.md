@@ -8,10 +8,6 @@ date: 3015-05-01 00:00:00
 - [TopCoder](https://www.topcoder.com/)
 - [Codeforces](http://codeforces.com/)
 
-# Languages
-- Python
-- Scala
-
 # Members 
 - [@necojackarc](https://twitter.com/necojackarc)
 - [@esplo77](https://twitter.com/esplo77)

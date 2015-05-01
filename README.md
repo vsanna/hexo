@@ -58,7 +58,7 @@ $ hexo new "<Article Title>"
 ```
 tags:
 - author
-- content
+- contest
 - language
 ```
 
@@ -80,11 +80,7 @@ $ hexo server
 - [http://localhost:4000/](http://localhost:4000/)
 
 ## Push & Deploy
-When push, CircleCI is to deploy automatically.
-
-```bash
-$ git push origin master
-```
+When master repository is updated, CircleCI is to deploy automatically.
 
 # References
 - [いまアツいJavaScript！ゼロから始めるNode.js入門〜5分で環境構築編〜](http://liginc.co.jp/web/programming/node-js/85318)

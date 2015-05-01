@@ -1,5 +1,5 @@
-# 概要
-- Requirement 
+# Summary
+- Requirement
 - Writing article
 
 # Requirement
@@ -7,8 +7,6 @@
 - Hexo
 
 ## Node.js
-- [いまアツいJavaScript！ゼロから始めるNode.js入門〜5分で環境構築編〜](http://liginc.co.jp/web/programming/node-js/85318)
-
 ### Install nvm
 ```bash
 $ git clone git://github.com/creationix/nvm.git ~/.nvm
@@ -18,12 +16,12 @@ $ source ~/.nvm/nvm.sh
 ### Install Node.js
 ```bash
 $ nvm ls-remote
-$ nvm install 0.xx.xx
+$ nvm install 0.12.2
 ```
 
 ### Set default
 ```bash
-$ nvm alias default v0.10.26
+$ nvm alias default v0.12.2
 ```
 
 ### Config .bash_profile
@@ -36,13 +34,18 @@ fi
 ## Hexo
 ```bash
 $ npm install -g hexo
-$ npm install hexo-deployer-git --save
 ```
 
 # Writing article
 ## Clone this repository
 ```bash
 $ git clone git@github.com:unique-sister/hexo.git unique-sister
+```
+
+## Install dependent packages
+```bash
+$ cd unique-sister
+$ npm install
 ```
 
 ## Create new entry
@@ -75,7 +78,14 @@ $ hexo server
 
 - [http://localhost:4000/](http://localhost:4000/)
 
-## Deploy
+## Push & Deploy
+When push, CircleCI is to deploy automatically.
+
 ```bash
-$ hexo clean && hexo deploy -g
+$ git push origin master
 ```
+
+# Reference
+- [いまアツいJavaScript！ゼロから始めるNode.js入門〜5分で環境構築編〜](http://liginc.co.jp/web/programming/node-js/85318)
+- [所要時間3分!? Github PagesとHEXOで爆速ブログ構築してみよう！](http://liginc.co.jp/web/programming/server/104594)
+- [チームブログをGitHubとHexoではじめよう！](http://blog.otakumode.com/2014/08/08/Blogging-with-hexoio/)

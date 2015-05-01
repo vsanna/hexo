@@ -1,0 +1,20 @@
+machine:
+  timezone:
+    UTC
+  node:
+    version: 0.12.2
+deployment:
+  production:
+    branch: master
+    commands:
+      - git config --global user.name "Circle CI"
+      - git config --global user.email "unique-sister@crcleci.com"
+      - git submodule init
+      - git submodule update
+      - ./node_modules/.bin/hexo clean
+      - ./node_modules/.bin/hexo generate
+      - ./node_modules/.bin/hexo deploy
+general:
+  branches:
+    only:
+      - master

@@ -1,6 +1,7 @@
 # Summary
 - Requirement
 - Writing article
+- References
 
 # Requirement
 - Node.js
@@ -85,7 +86,7 @@ When push, CircleCI is to deploy automatically.
 $ git push origin master
 ```
 
-# Reference
+# References
 - [いまアツいJavaScript！ゼロから始めるNode.js入門〜5分で環境構築編〜](http://liginc.co.jp/web/programming/node-js/85318)
 - [所要時間3分!? Github PagesとHEXOで爆速ブログ構築してみよう！](http://liginc.co.jp/web/programming/server/104594)
 - [チームブログをGitHubとHexoではじめよう！](http://blog.otakumode.com/2014/08/08/Blogging-with-hexoio/)

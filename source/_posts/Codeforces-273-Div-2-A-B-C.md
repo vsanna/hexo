@@ -1,4 +1,4 @@
-title: "Codeforces #273 Div.2 A B C"
+title: "Codeforces #273 Div.2 A, B, C"
 date: 2015-05-02 13:33:42
 tags:
 - necojackarc

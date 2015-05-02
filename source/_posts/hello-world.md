@@ -4,10 +4,6 @@ date: 3015-05-01 00:00:00
 
 謎の組織による競技プログラミング奮闘記です。
 
-# Contests
-- [TopCoder](https://www.topcoder.com/)
-- [Codeforces](http://codeforces.com/)
-
 # Members 
 - [@necojackarc](https://twitter.com/necojackarc)
 - [@esplo77](https://twitter.com/esplo77)

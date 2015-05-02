@@ -6,7 +6,7 @@ tags:
 - Scala
 ---
 
-* [個人ブログ](http://necojackarc.hatenablog.com/entry/2015/04/30/023443)からの転載です
+* [個人ブログ](http://necojackarc.hatenablog.com/entry/2015/04/30/023443)から転載
 
 ---
 

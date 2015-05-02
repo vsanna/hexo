@@ -1,4 +1,4 @@
-title: "TopCoder SRM 383 Div2 easy medium"
+title: "TopCoder SRM 383 Div.2 easy medium"
 date: 2015-05-01 03:26:31
 tags:
 - necojackarc

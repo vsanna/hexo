@@ -136,10 +136,10 @@ puts (g.zip a).map { |x, y| x*y }.reduce(:^) != 0 ? 'First' : 'Second'
 ```
 
 最終行ですが、本当は Haskell の zipWith 関数的なのを使いたかったのですが、 Ruby にはないため、`zip` + `map`で代用しています。
-思いつきで書きましたが、割と zipWith の挙動を再現できてるんじゃないかなと思います。
+思いつきで書きましたが、割と綺麗に zipWith の挙動を再現できてるんじゃないかなと思います。
 
 ```ruby
-(arr1.zip a).map { |x, y| hoge }
+(arr1.zip arr2).map { |x, y| hoge }
 ```
 
 そして実は、この回答は実は満点ではありません。

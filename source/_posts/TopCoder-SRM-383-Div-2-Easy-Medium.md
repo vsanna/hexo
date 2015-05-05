@@ -8,7 +8,7 @@ tags:
 
 SRM 383 Div2 の easy と medium を Python で解いてみました。
 
-# FloorLayout - easy
+# Easy. FloorLayout
 行に`-`の塊が何個あるか、列に`|`の塊が何個あるかを数える問題です。
 
 ```
@@ -51,7 +51,7 @@ class FloorLayout:
         return count
 ```
 
-# Planks - medium
+# Medium. Planks
 いくつかの長さが違う木が与えられ、それを切りそろえて売ります。同じ長さに切り揃えたモノしか売れません。また、木を切るのにもコストがかかります。コストと木の単価が与えられるので、売値を最大にするようにしたいです。
 
 ## 解法

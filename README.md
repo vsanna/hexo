@@ -8,29 +8,10 @@
 - Hexo
 
 ## Node.js
-### Install nvm
-```bash
-$ git clone git://github.com/creationix/nvm.git ~/.nvm
-$ source ~/.nvm/nvm.sh
-```
+It is good to use one of the following tools.
 
-### Install Node.js
-```bash
-$ nvm ls-remote
-$ nvm install 0.12.2
-```
-
-### Set default
-```bash
-$ nvm alias default v0.12.2
-```
-
-### Config .bash_profile
-```bash
-if [[ -s ~/.nvm/nvm.sh ]];
- then source ~/.nvm/nvm.sh
-fi
-```
+- [riywo/ndenv](https://github.com/riywo/ndenv)
+- [creationix/nvm](https://github.com/creationix/nvm)
 
 ## Hexo
 ```bash

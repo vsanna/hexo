@@ -6,7 +6,7 @@ tags:
 - Python
 ---
 
-SRM 383 Div2 の easy と medium を Python で解いてみました。
+SRM 383 Div2 の Easy と Medium を Python で解いてみました。
 
 # Easy. FloorLayout
 行に`-`の塊が何個あるか、列に`|`の塊が何個あるかを数える問題です。

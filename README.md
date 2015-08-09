@@ -1,5 +1,5 @@
 # Summary
-This repository manages the source code of [this page](http://unique-sister.github.io/)
+This repository manages the source code of [this page](http://unikell.github.io/)
 
 - Requirement
 - Writing article
@@ -23,12 +23,12 @@ $ npm install -g hexo
 # Writing article
 ## Clone this repository
 ```bash
-$ git clone git@github.com:unique-sister/hexo.git unique-sister
+$ git clone git@github.com:unikell/hexo.git unikell
 ```
 
 ## Install dependent packages
 ```bash
-$ cd unique-sister
+$ cd unikell
 $ npm install
 ```
 

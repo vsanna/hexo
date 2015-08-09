@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Unique Sister
+title: Unikell
 subtitle: 競技プログラミング奮闘記
 description: 謎の組織による競技プログラミング奮闘記
-author: Unique Sister
+author: Unikell
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://unique-sister.github.io
+url: http://unikell.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -70,5 +70,5 @@ theme: landscape
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:unique-sister/unique-sister.github.io.git
+  repo: git@github.com:unikell/unikell.github.io.git
   branch: master

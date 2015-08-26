@@ -60,8 +60,7 @@ http://d.hatena.ne.jp/sune2/searchdiary?word=%2A%5B%B5%C2%CB%DC%5D
 #### 2-3
 ##### 基礎
 - POJ3176 - Cow Bowling
-- POJ3177 - Sumsets
-- POJ2229
+- POJ2229 - Sumsets
 - POJ2385 - Apple Catching
 - POJ3616 - Milking Time
 - POJ3280 - Cheapest Palindrome

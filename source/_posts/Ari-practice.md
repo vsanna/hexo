@@ -100,7 +100,7 @@ http://d.hatena.ne.jp/sune2/searchdiary?word=%2A%5B%B5%C2%CB%DC%5D
 - POJ1258 - Agri-Net
 - POJ2377 - Bad Cowtractors
 - AOJ2224 - Save your cats
-- POJ2359 - Out of Hay
+- POJ2395 - Out of Hay
 
 #### 2-6
 ##### ユークリッドの互除法

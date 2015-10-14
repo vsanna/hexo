@@ -10,16 +10,12 @@ tags:
 
 ## 背景
 蟻本は、様々なアルゴリズムを紹介している名著。
-なんとか読破したい。
-しかし、練習問題が無いものも多い。
-実施に書いてサブミットしないとなかなか身につかないので、オンラインジャッジが欲しいところ。
+なんとか読破したいが、練習問題を解かないと身についた気がしない。
 
-そこで、各問題について練習問題を集めてみた。
-……実際は、既にそういうサイトが会ったのでマージしただけ。
-やはり皆考えることは一緒なのか。
+そこで、各問題についての練習問題を記事として記載してみた。
+……実際は、既に一部を列挙している記事があったので、マージ & 補完しただけ。
 
 ## 参考サイト
-
 http://even-eko.hatenablog.com/entry/2013/08/23/214448
 http://d.hatena.ne.jp/sune2/searchdiary?word=%2A%5B%B5%C2%CB%DC%5D
 
@@ -100,7 +96,7 @@ http://d.hatena.ne.jp/sune2/searchdiary?word=%2A%5B%B5%C2%CB%DC%5D
 - POJ1258 - Agri-Net
 - POJ2377 - Bad Cowtractors
 - AOJ2224 - Save your cats
-- POJ2359 - Out of Hay
+- POJ2395 - Out of Hay
 
 #### 2-6
 ##### ユークリッドの互除法
@@ -132,14 +128,17 @@ http://d.hatena.ne.jp/sune2/searchdiary?word=%2A%5B%B5%C2%CB%DC%5D
 - POJ3111 - K Best
 
 ##### k番目の値を探索
+- POJ3579 - Median
+- POJ3685 - Matrix
+
+##### k番目を最小化
 - POJ2010 - Moo University - Financial Aid(AC)
-- POJ3685
+- POJ3662 - Telephone Lines
 
 ##### その他
 - POJ1759 - Garland
 - POJ3484 - Showstopper
-- POJ3662 - Telephone Lines
-- POJ3579 - Median
+
 
 #### 3-2
 ##### しゃくとり法
@@ -163,15 +162,36 @@ http://d.hatena.ne.jp/sune2/searchdiary?word=%2A%5B%B5%C2%CB%DC%5D
 
 #### 3-3
 ##### BIT
-- POJ1990
-- POJ3109
-- POJ2155
-- POJ2886
+- POJ1990 - MooFest
+- POJ3109 - Inner Vertices
+- POJ2155 - Matrix
+- POJ2886 - Who Gets the Most Candies?
 
 ##### セグメント木、バケット法
-- POJ3264
+- POJ3264 - Balanced Lineup
+- POJ3368 - Frequent values
+- POJ3470 - Walls
+- POJ1201 - Intervals
+- UVa11990 - Dynamic Inversion
+
+#### 3-4
+##### ビットDP
+- POJ2441 - Arrange the Bulls
+- POJ3254 - Corn Fields
+- POJ2836 - Rectangular Covering
+- POJ1795 - DNA Laboratory
+- POJ3411 - Paid Roads
+
+##### 業績累乗
+- POJ3420 - Quad Tiling
+- POJ3735 - Training little cats
+
+##### データ構造を用いて高速化
+- POJ3171 - Cleaning Shifts
 
 
 ### まとめ
-3-3まででこの量。
+3-4まででこの量。
 難しい問題もあるそうで困難な道だと思うが、頑張って解いていく！
+
+ネットワークフロー以降は問題数が多いので、別記事として作成する。

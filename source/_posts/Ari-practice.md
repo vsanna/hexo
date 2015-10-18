@@ -132,7 +132,7 @@ http://d.hatena.ne.jp/sune2/searchdiary?word=%2A%5B%B5%C2%CB%DC%5D
 - POJ3685 - Matrix
 
 ##### k番目を最小化
-- POJ2010 - Moo University - Financial Aid(AC)
+- POJ2010 - Moo University - Financial Aid
 - POJ3662 - Telephone Lines
 
 ##### その他

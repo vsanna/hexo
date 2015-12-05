@@ -151,7 +151,7 @@ http://d.hatena.ne.jp/sune2/searchdiary?word=%2A%5B%B5%C2%CB%DC%5D
 - POJ1222 - Extended Lights Out
 
 ##### 弾性衝突
-- POJ 2674 - Linear world
+- POJ2674 - Linear world
 
 ##### 半分全列挙
 - POJ3977 - Subset
@@ -182,7 +182,7 @@ http://d.hatena.ne.jp/sune2/searchdiary?word=%2A%5B%B5%C2%CB%DC%5D
 - POJ1795 - DNA Laboratory
 - POJ3411 - Paid Roads
 
-##### 業績累乗
+##### 行列累乗
 - POJ3420 - Quad Tiling
 - POJ3735 - Training little cats
 
